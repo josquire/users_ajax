@@ -1,3 +1,27 @@
-// Place all the styles related to the users controller here.
-// They will automatically be included in application.css.
-// You can use Sass (SCSS) here: http://sass-lang.com/
+.no-display {
+  display: none;
+}
+
+body {
+  background-color: tan;
+  text-align: center;
+}
+
+li {
+  margin: 10px;
+  padding:10px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.delete_user {
+  margin: 10px;
+}
+
+.card {
+  margin: 45%;
+}
